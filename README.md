@@ -47,7 +47,7 @@ git clone https://github.com/Ag-hosh/Blockchain-Assignment.git
 ## File Structure
 The relevant files and their descriptions in the project are as follows:
 
-- **run.sh**:this is the windows batch file to start the flask server.
+- **run.sh**: This is the windows batch file to start the flask server.
 - **app.py**: The main Flask application file that handles routing and serves the web pages.
 - **templates/index.html**: The HTML file containing the user interface and JavaScript code for the Payment APP.
 - **templates/contact.html**: The HTML file that provides the contact information and form for user inquiries.
