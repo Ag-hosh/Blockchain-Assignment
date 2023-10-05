@@ -24,13 +24,11 @@ In a world where transparency and accountability are paramount, our platform see
 
 ## Installation and Setup
 
-1. Clone the repository:
-`git clone https://github.com/Ag-hosh/Blockchain-Assignment.git`
-2. Open app.py
-3. Install all dependencies using `pip install -r requirements.txt`
-4. To run the server type `./run.sh`
+1. Clone the repository:  `git clone https://github.com/Ag-hosh/Blockchain-Assignment.git`
+2. Install all dependencies using `pip install -r requirements.txt`
+3. To run the server type `./run.sh`
     Note: this only works on windows please create a batch file for linux(code is same for both)
-5. Open http://localhost:5000 and display the webpage
+4. Open http://localhost:5000 and display the webpage
 
 ## Technology Stack
 
