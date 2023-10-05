@@ -25,7 +25,7 @@ In a world where transparency and accountability are paramount, our platform see
 ## Installation and Setup
 
 1. Clone the repository:
-git clone https://github.com/Ag-hosh/Blockchain-Assignment.git
+`git clone https://github.com/Ag-hosh/Blockchain-Assignment.git`
 2. Open app.py
 3. Install all dependencies using `pip install -r requirements.txt`
 4. To run the server type `./run.sh`
