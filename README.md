@@ -2,7 +2,7 @@
 
 Welcome to the Blockchain-based Charity Donation Platform project! This open-source initiative aims to revolutionize the way charitable contributions are made and tracked by leveraging the power of blockchain technology.
 
-    Note: this works with SepoliaETH, eth and all the types of etharium blockchain refer to  web3.js documentation for more details.
+    \n Note: this works with SepoliaETH, eth and all the types of etharium blockchain refer to  web3.js documentation for more details.
 
 ## Project Overview
 
