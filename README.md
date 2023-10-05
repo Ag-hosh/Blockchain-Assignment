@@ -1,4 +1,4 @@
-# Blockchain-based Charity Donation Platform
+# Blockchain for Charity
 
 Welcome to the Blockchain-based Charity Donation Platform project! This open-source initiative aims to revolutionize the way charitable contributions are made and tracked by leveraging the power of blockchain technology.
 
