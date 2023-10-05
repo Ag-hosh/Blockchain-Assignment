@@ -4,7 +4,7 @@ Welcome to the Blockchain-based Charity Donation Platform project! This open-sou
 
 **Important note**
 
-   This works with SepoliaETH, eth and all the types of etharium blockchain refer to  web3.js documentation for more details.
+   This works with SepoliaETH, eth and all the types of Ethereum blockchain refer to  web3.js documentation for more details.
 
 ## Project Overview
 
