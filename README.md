@@ -34,7 +34,7 @@ The **Blockchain-Powered Charity Donation Platform** is constructed using a dive
 
 The project's file structure is meticulously organized for clarity and ease of development:
 
-- **run.sh / run.bat**: A Windows batch file employed to initiate the Flask server.
+- **run.sh / run.bat**: A batch file employed to initiate the Flask server.
 
 - **app.py**: The primary Flask application file responsible for routing and serving web pages.
 
