@@ -47,6 +47,7 @@ The project's file structure is meticulously organized for clarity and ease of d
 - **templates/about.html**: An HTML file providing comprehensive information about the project or organization, including its mission, team, and objectives.
 
 - **templates/home.html**: Serving as the main homepage of the website, this HTML file contains essential content and navigation elements for users.
+  
 
 ## Demo Video
 
