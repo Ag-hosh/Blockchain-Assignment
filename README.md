@@ -1,4 +1,4 @@
-# Blockchain-Powered Charity Donation Platform Report
+# Blockchain-Powered Charity Donation Platform
 
 ## Introduction
 
