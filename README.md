@@ -50,8 +50,7 @@ The project's file structure is meticulously organized for clarity and ease of d
   
 
 ## Demo Video
-
-https://github.com/Ag-hosh/Blockchain-Assignment/assets/72902766/34eedf8c-7a75-4f51-855a-b52574901063
+https://github.com/Ag-hosh/Blockchain-project-Charity_Platform/assets/72902766/372002a3-8338-4fd7-9eec-580157cfaa6e
 
 
 
